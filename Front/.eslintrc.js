@@ -30,5 +30,6 @@ module.exports = {
     'object-curly-newline': 'off',
     'react/react-in-jsx-scope': 'off',
     'jsx-a11y/label-has-associated-control': 'off',
+    'react/button-has-type': 'off',
   },
 };
